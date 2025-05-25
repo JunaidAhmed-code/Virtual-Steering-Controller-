@@ -68,10 +68,4 @@ Solution: Implemented release_key and press_key functions using Windows API to m
 
 Learning: Gained experience in hand landmark detection, geometric calculations for gesture recognition, and integrating computer vision with system input control.
 
-Visuals
-Add screenshots or GIFs here to demonstrate the project in action. Examples include:
 
-Screenshot of the webcam feed showing hand landmarks, the green circle, and "Turn left" text.
-GIF showing the gesture detection triggering "Turn right" or "keep straight" with corresponding keyboard inputs.
-
-To include visuals, capture images or recordings, upload them to your GitHub repository, and link them here using Markdown image syntax, e.g., ![Demo](path/to/image.png).
